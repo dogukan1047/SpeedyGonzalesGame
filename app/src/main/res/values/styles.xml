@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="backgr">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#487083</item>
+        <item name="android:backgroundTint">#CCC1C1</item>
+    </style>
+</resources>
